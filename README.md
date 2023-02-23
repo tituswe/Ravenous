@@ -1,2 +1,3 @@
 # Ravenous
-React project learning with Codecademy
+
+React project to create a Yelp! clone.
